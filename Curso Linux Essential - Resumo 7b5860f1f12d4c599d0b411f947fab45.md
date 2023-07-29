@@ -13,7 +13,7 @@ Linux é um sistema operacional de código aberto, baseado no kernel Linux, dese
 
 Exemplos populares de distribuições Linux incluem Ubuntu, Fedora, Debian e CentOS.
 
-![Untitled](Curso%20Linux%20Essential%20-%20Resumo%207b5860f1f12d4c599d0b411f947fab45/Untitled.png)
+![](Curso%20Linux%20Essential%20-%20Resumo%207b5860f1f12d4c599d0b411f947fab45/Untitled.png)
 
 - GNU:
 GNU é um acrônimo recursivo para "GNU's Not Unix", um projeto lançado em 1983 pela Free Software Foundation (FSF), liderada por Richard Stallman. O objetivo do projeto GNU era criar um sistema operacional completo e livre, composto inteiramente por software livre. A FSF desenvolveu muitas ferramentas e utilitários, incluindo o GCC (GNU Compiler Collection) e o Emacs, que são amplamente utilizados em sistemas GNU/Linux.
