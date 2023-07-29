@@ -9,7 +9,7 @@ Linux é um sistema operacional de código aberto, baseado no kernel Linux, dese
 
 ![                                Linux Torvalds, criador do kernel Linux.](https://techstart.xyz/wp-content/uploads/2019/02/18-curiosidades-sobre-Linus-Torvalds-o-pai-do-Linux.jpg)
 
-                                Linux Torvalds, criador do kernel Linux.
+                                                  Linux Torvalds, criador do kernel Linux.
 
 Exemplos populares de distribuições Linux incluem Ubuntu, Fedora, Debian e CentOS.
 
@@ -20,7 +20,7 @@ GNU é um acrônimo recursivo para "GNU's Not Unix", um projeto lançado em 1983
 
 ![                                Richard Stallman, o gênio craidor do GNU](https://upload.wikimedia.org/wikipedia/commons/f/f3/Richard_Stallman_by_Anders_Brenna_01.jpg)
 
-                                Richard Stallman, o gênio craidor do GNU
+                                                   Richard Stallman, o gênio craidor do GNU
 
 - BSD:
 BSD (Berkeley Software Distribution) é uma família de sistemas operacionais de código aberto baseados no UNIX desenvolvida na Universidade da Califórnia, em Berkeley. Existem várias variantes do BSD, incluindo FreeBSD, OpenBSD, NetBSD e outras. O BSD é conhecido por sua ênfase em licenças de software permissivas e segurança.
@@ -90,4 +90,5 @@ O Bash é amplamente utilizado em sistemas operacionais baseados em Unix e Linux
 
 Esses são apenas alguns dos comandos básicos do Bash. Existem muitos outros comandos e opções disponíveis, e você pode aprender mais sobre eles consultando a documentação do Bash ou executando o comando `man bash` no terminal para acessar o manual completo.
 
+Link: https://quiver-thorn-c78.notion.site/Curso-Linux-Essential-Resumo-7b5860f1f12d4c599d0b411f947fab45
 ---
