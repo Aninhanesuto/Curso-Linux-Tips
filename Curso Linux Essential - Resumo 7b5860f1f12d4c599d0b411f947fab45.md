@@ -7,7 +7,7 @@
 - Linux:
 Linux é um sistema operacional de código aberto, baseado no kernel Linux, desenvolvido em 1991 por Linus Torvalds. O kernel é a parte central do sistema operacional que gerencia recursos do hardware e permite a comunicação entre o hardware e o software. Embora o kernel seja chamado Linux, o sistema operacional completo é geralmente referido como distribuições Linux, que incluem o kernel Linux, além de utilitários e programas desenvolvidos por outras pessoas ou projetos.
 
-![                                Linux Torvalds, criador do kernel Linux.](https://techstart.xyz/wp-content/uploads/2019/02/18-curiosidades-sobre-Linus-Torvalds-o-pai-do-Linux.jpg:150)
+![                                Linux Torvalds, criador do kernel Linux.](https://techstart.xyz/wp-content/uploads/2019/02/18-curiosidades-sobre-Linus-Torvalds-o-pai-do-Linux.jpg)
 
                                 Linux Torvalds, criador do kernel Linux.
 
