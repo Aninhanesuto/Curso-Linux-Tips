@@ -7,18 +7,18 @@
 - Linux:
 Linux é um sistema operacional de código aberto, baseado no kernel Linux, desenvolvido em 1991 por Linus Torvalds. O kernel é a parte central do sistema operacional que gerencia recursos do hardware e permite a comunicação entre o hardware e o software. Embora o kernel seja chamado Linux, o sistema operacional completo é geralmente referido como distribuições Linux, que incluem o kernel Linux, além de utilitários e programas desenvolvidos por outras pessoas ou projetos.
 
-![                                Linux Torvalds, criador do kernel Linux.](Curso%20Linux%20Essential%20-%20Resumo%207b5860f1f12d4c599d0b411f947fab45/Untitled.jpeg)
+![                                Linux Torvalds, criador do kernel Linux.](https://techstart.xyz/wp-content/uploads/2019/02/18-curiosidades-sobre-Linus-Torvalds-o-pai-do-Linux.jpg)
 
                                 Linux Torvalds, criador do kernel Linux.
 
 Exemplos populares de distribuições Linux incluem Ubuntu, Fedora, Debian e CentOS.
 
-![](Curso%20Linux%20Essential%20-%20Resumo%207b5860f1f12d4c599d0b411f947fab45/Untitled.png)
+![](https://teclinux.com/wp-content/uploads/2022/06/flatpak-distros-1024x497.png)
 
 - GNU:
 GNU é um acrônimo recursivo para "GNU's Not Unix", um projeto lançado em 1983 pela Free Software Foundation (FSF), liderada por Richard Stallman. O objetivo do projeto GNU era criar um sistema operacional completo e livre, composto inteiramente por software livre. A FSF desenvolveu muitas ferramentas e utilitários, incluindo o GCC (GNU Compiler Collection) e o Emacs, que são amplamente utilizados em sistemas GNU/Linux.
 
-![                                Richard Stallman, o gênio craidor do GNU](Curso%20Linux%20Essential%20-%20Resumo%207b5860f1f12d4c599d0b411f947fab45/Untitled%201.jpeg)
+![                                Richard Stallman, o gênio craidor do GNU](https://upload.wikimedia.org/wikipedia/commons/f/f3/Richard_Stallman_by_Anders_Brenna_01.jpg)
 
                                 Richard Stallman, o gênio craidor do GNU
 
